@@ -18,5 +18,5 @@ public class HelloWorldInitializer extends AbstractAnnotationConfigDispatcherSer
     protected String[] getServletMappings() {
         return new String[] { "/" };
     }
- 
+
 }
